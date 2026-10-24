@@ -1,9 +1,8 @@
-#Cache and env
 venv/
-env/
 __pycache__/
 *.pyc
 .pytest_cache/
-
-#Secret
 .env
+*.gguf
+*.exe
+prompt.txt
